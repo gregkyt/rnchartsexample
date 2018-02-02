@@ -1,0 +1,17 @@
+PODS:
+  - Charts (3.0.3):
+    - Charts/Core (= 3.0.3)
+  - Charts/Core (3.0.3)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Charts (= 3.0.3)
+  - SwiftyJSON (= 3.1.4)
+
+SPEC CHECKSUMS:
+  Charts: bcde37724c161958c1438dd4883971fcb2d50c06
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 372a66846d97c1f98caedf8456e624df71b24885
+
+COCOAPODS: 1.2.1
